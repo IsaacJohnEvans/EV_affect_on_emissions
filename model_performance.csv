@@ -1,0 +1,3 @@
+,time_step,data_memory,samples,layers,training_loss,val_loss,test_loss
+0,1,5,11,"D32, GRU16, D1",10,10,0.15170005
+0,1,5,11,"D32, GRU32, D1",10,10,0.14342792
